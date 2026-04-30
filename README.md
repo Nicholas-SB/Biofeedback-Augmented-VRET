@@ -16,7 +16,7 @@ In order to run this game well, a smartphone-based Head-Mounted Display such as 
 This game is made using Unity with the C++ language. The equipment we used for testing the game are Shinecon 10.0 for the HMD, Magene H803 for the heart beat tracker, and ASUS ROG 6 to play the game.
 
 ## Contributors 
-1. Nicholas Sebastian Budiman: programmer 
+1. Nicholas Sebastian Budiman 
 2. Saverio Kusuma
 3. Kevin Hansen Tejawijaya
 4. Anderies
