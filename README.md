@@ -15,6 +15,10 @@ In order to run this game well, a smartphone-based Head-Mounted Display such as 
 ## Technical Details 
 This game is made using Unity with the C++ language. The equipment we used for testing the game are Shinecon 10.0 for the HMD, Magene H803 for the heart beat tracker, and ASUS ROG 6 to play the game.
 
+## Survey Results
+Below is the google form link for the subjective feedback:
+https://docs.google.com/spreadsheets/d/1yKNYty3uUbM\_yQjZrliCQ49IyLj5roYp0QWr-bGOIGE/edit?resourcekey=\&gid=351040936#gid=351040936
+
 ## Contributors 
 1. Nicholas Sebastian Budiman 
 2. Saverio Kusuma
