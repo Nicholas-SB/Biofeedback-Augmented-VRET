@@ -1,0 +1,11 @@
+Model Information:
+* title:	Electric Stove - Estufa Electrica
+* source:	https://sketchfab.com/3d-models/electric-stove-estufa-electrica-b64ec42b3f784ea6ab58d862328fd0cc
+* author:	DidierA (https://sketchfab.com/DidierA)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Electric Stove - Estufa Electrica" (https://sketchfab.com/3d-models/electric-stove-estufa-electrica-b64ec42b3f784ea6ab58d862328fd0cc) by DidierA (https://sketchfab.com/DidierA) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

@@ -1,0 +1,11 @@
+Model Information:
+* title:	Rice cooker
+* source:	https://sketchfab.com/3d-models/rice-cooker-b5fa93abac0147c5ae4aeb8f8eb0340a
+* author:	1-3D.com (https://sketchfab.com/1-3D.com)
+
+Model License:
+* license type:	CC-BY-SA-4.0 (http://creativecommons.org/licenses/by-sa/4.0/)
+* requirements:	Author must be credited. Modified versions must have the same license. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Rice cooker" (https://sketchfab.com/3d-models/rice-cooker-b5fa93abac0147c5ae4aeb8f8eb0340a) by 1-3D.com (https://sketchfab.com/1-3D.com) licensed under CC-BY-SA-4.0 (http://creativecommons.org/licenses/by-sa/4.0/)

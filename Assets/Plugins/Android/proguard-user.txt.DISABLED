@@ -1,0 +1,11 @@
+# Prevent R8 from stripping Google Cardboard SDK classes
+-keep class com.google.cardboard.** { *; }
+-keep interface com.google.cardboard.** { *; }
+
+# Also keep the Unity XR and Android classes involved in JNI
+-keep class com.unity3d.player.** { *; }
+-keep class com.google.vr.** { *; }
+
+# Don't warn about missing references in the SDK itself
+-dontwarn com.google.cardboard.**
+-keep class com.google.cardboard.sdk.** { *; }
